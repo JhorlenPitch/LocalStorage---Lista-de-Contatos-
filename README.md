@@ -1,4 +1,4 @@
-#Lista de Contatos: Aplicativo Web com Armazenamento Local
+# Lista de Contatos: Aplicativo Web com Armazenamento Local
 
 Este é um simples aplicativo de lista de contatos desenvolvido utilizando HTML, CSS e JavaScript. Ele permite aos usuários adicionar, visualizar, editar e excluir contatos de forma fácil e intuitiva.
 
@@ -23,9 +23,3 @@ CSS: Responsável pelo estilo e layout visual do aplicativo.
 JavaScript: Responsável pela lógica do aplicativo, incluindo interações do usuário e manipulação do localStorage.
 
 Este projeto é uma excelente demonstração de como criar uma aplicação web simples, mas funcional, utilizando tecnologias web básicas e aproveitando o localStorage para armazenamento de dados local.
-
-
-
-
-
-
